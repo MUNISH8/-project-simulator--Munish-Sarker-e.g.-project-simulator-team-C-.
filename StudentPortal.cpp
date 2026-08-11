@@ -11,7 +11,7 @@ struct Student
     char gender[10];        // T-07
     char phone[25];         // T-05 updated to T-13
     char status[20];        // T-10
-    char address[100];      //T-06
+    char address[200];      //T-06 updated to T-12
     int creditHours;        //T-09
     char email[100];         //T-04
     int semester;
