@@ -8,13 +8,16 @@
 
 ## Student 3 - Samia Afruz Asha
 
-## \## Project Files
+## Project Files
 
-## \- StudentPortal.txt – Contains the Student data structure.
+## StudentPortal.txt – Contains the Student data structure.
 
-## \- README.md – Project information.
+## README.md – Project information.
 
-## \- PROJECT\_FEATURES.md – List of implemented features.
+## PROJECT_FEATURES.md – List of implemented features.
 
-## \- CHANGELOG.md – History of project changes.
+## CHANGELOG.md – History of project changes.
 
+## Project Description 
+Student Management System is a simple project used to practice Git workflow 
+management. 
