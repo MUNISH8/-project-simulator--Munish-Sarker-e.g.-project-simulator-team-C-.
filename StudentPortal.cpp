@@ -5,7 +5,7 @@ using namespace std;
 struct Student
 {
     int id;
-    char studentName[100];  // Updated
+    char studentName[150];  // Updated to 150 by rii
     int age;
     float cgpa;
     char gender[10];        // T-07
