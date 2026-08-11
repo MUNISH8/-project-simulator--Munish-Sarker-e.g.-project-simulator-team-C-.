@@ -13,8 +13,8 @@ struct Student
     char status[20];        // T-10
     char address[100];      //T-06
     int creditHours;        //T-09
-    char email[100]         //T-04
-
+    char email[100];         //T-04
+    int semester;
 
 };
 
