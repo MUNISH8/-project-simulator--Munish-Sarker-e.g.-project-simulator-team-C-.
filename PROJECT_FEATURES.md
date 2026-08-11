@@ -1,7 +1,4 @@
 "# Implemented Features" 
-<<<<<<< HEAD
 ## Student Age 
-=======
-
-
->>>>>>> ec3848c1a3da4ca2287d5514653a3e4187f66438
+## Student Age 
+## Student Cgpa
