@@ -11,7 +11,6 @@ struct Student
     char gender[10];   // T-07
     char phone[20];    // T-05
     char status[20];   // T-10
-    int semester; //T-08
 
 };
 
