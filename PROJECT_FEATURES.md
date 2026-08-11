@@ -24,5 +24,15 @@
 
 ## Phone Number updated to 25
 
+## StudentPortal.txt – Contains the Student data structure.
+
+## README.md – Project information.
+
+## PROJECT\_FEATURES.md – List of implemented features.
+
+## CHANGELOG.md – History of project changes.
+
+## Add a feature file explaining about the project files.
+
 
 
