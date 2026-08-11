@@ -10,6 +10,7 @@ struct Student
     int age;
     float cgpa;
     char gender[10];   // T-07
+    char phone[20];  //T-05
 };
 
 void displayStudents(Student students[], int n)
