@@ -34,6 +34,8 @@
 
 ## Version 1.14
 
+## Version 1.16
+
 
 ## &#x20;# Changelog
 
