@@ -5,5 +5,4 @@
 ## Student Gender
 ## Student Status
 ## Student Phone Number
-## Student Semester
 
