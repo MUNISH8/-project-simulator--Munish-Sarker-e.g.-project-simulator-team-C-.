@@ -11,6 +11,8 @@ struct Student
     char gender[10];        // T-07
     char phone[20];         // T-05
     char status[20];        // T-10
+    char address[100];      //T-06
+
 };
 
 void displayStudents(Student students[], int n)
