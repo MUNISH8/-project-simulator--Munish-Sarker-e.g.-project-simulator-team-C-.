@@ -26,9 +26,7 @@
 
 ## Organize the changelog
 
-
-
-## 
+## Add Char email
 
 
 
