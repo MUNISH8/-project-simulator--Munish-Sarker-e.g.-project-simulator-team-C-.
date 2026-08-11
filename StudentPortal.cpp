@@ -12,6 +12,8 @@ struct Student
     char phone[20];         // T-05
     char status[20];        // T-10
     char address[100];      //T-06
+    int creditHours;        //T-09
+
 
 };
 
