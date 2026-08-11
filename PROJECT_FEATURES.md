@@ -3,4 +3,5 @@
 ## Student Cgpa 
 ## Student Age print 
 ## Student Gender
-## Student Phone Number
+## Student Phone Number 
+## Student Status
