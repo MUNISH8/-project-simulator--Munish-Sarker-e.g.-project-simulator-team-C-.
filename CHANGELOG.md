@@ -4,3 +4,4 @@
 ## Version 1.3
 ## Version 1.5
 ## Version 1.7
+## Version 1.8

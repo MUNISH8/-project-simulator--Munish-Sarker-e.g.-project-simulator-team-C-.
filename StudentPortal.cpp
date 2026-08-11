@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 using namespace std;
 
@@ -9,9 +8,9 @@ struct Student
     char name[50];
     int age;
     float cgpa;
-    char gender[10];    // T-07
-    char phone[20];     // T-05
-    char address[100];  // T-06
+    char gender[10];   // T-07
+    char phone[20];  //T-05
+    int semester; //T-08
 };
 
 void displayStudents(Student students[], int n)
@@ -35,6 +34,5 @@ int main()
 
     return 0;
 }
-```
 
 
