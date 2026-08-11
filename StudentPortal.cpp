@@ -14,7 +14,7 @@ struct Student
     char address[200];      //T-06 updated to T-12
     int creditHours;        //T-09
     char email[100];         //T-04
-    int semester;
+    int semester;            //T-08
 
 };
 
