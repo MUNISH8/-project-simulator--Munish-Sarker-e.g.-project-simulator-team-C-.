@@ -9,7 +9,7 @@ struct Student
     int age;
     float cgpa;
     char gender[10];        // T-07
-    char phone[20];         // T-05
+    char phone[25];         // T-05 updated to T-13
     char status[20];        // T-10
     char address[100];      //T-06
     int creditHours;        //T-09
