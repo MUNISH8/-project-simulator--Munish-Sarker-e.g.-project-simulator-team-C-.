@@ -7,6 +7,7 @@ struct Student
     char name[50];
     int age;
     float cgpa;
+    char gender[10];   // T-07
 };
 
 void displayStudents(Student students[], int n)
@@ -21,9 +22,9 @@ int main()
 {
     Student students[3] =
     {
-        {1, "Samia", 20, 4.00},
-        {2, "Rahim", 21, 3.75},
-        {3, "Karim", 22, 3.50}
+        {1, "Samia", 20, 4.00, "Female"},
+        {2, "Rahim", 21, 3.75, "Male"},
+        {3, "Karim", 22, 3.50, "Male"}
     };
 
     displayStudents(students, 3);
