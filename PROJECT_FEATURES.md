@@ -12,11 +12,11 @@
 
 ## Student Phone Number
 
-## Name to Student Name
+## Rename to student name field
 
 ## Student Address
 
-## Add TeamMember in Readme
+## Add Team information
 
 ## Add creditHours
 
@@ -35,5 +35,9 @@
 ## rename student id field 
 
 ## improve project description 
+
+## add project structure 
+
+## update project feature
 
 
