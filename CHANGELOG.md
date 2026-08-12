@@ -65,6 +65,14 @@
 
 ## 
 
+## \## Version 1.4
+
+## 
+
+## \* Added Student Email.
+
+## 
+
 ## \## Version 1.5
 
 ## 
@@ -86,6 +94,15 @@
 ## 
 
 ## \* Added Student Phone Number.
+
+##
+
+## \## Version 1.8
+
+## 
+
+## \* Added Student Semester.
+
 
 ## 
 
@@ -113,6 +130,14 @@
 
 ## 
 
+## \## Version 1.12
+
+## 
+
+## \*  Improve Address Capacity 
+
+##
+
 ## \## Version 1.13
 
 ## 
@@ -121,11 +146,28 @@
 
 ## 
 
+## \## Version 1.14
+
+## 
+
+## \*  Rename Student ID
+
+## 
+
+
 ## \## Version 1.15
 
 ## 
 
 ## \* Updated Student Name size to 150.
+
+## 
+
+## \## Version 1.16
+
+## 
+
+## \*  Improve README .
 
 ## 
 
@@ -141,7 +183,23 @@
 
 ## 
 
-## \* Updated project features and documentation.
+## \* Add Team Information 
+
+##
+
+## \## Version 1.19
+
+## 
+
+## \*  Organize CHANGELOG
+
+## 
+
+## \## Version 1.120
+
+## 
+
+## \*   Update Project Features 
 
 
 
