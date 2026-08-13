@@ -1,12 +1,46 @@
-"# Implemented Features" 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Student Age 
-=======
 
+"# Implemented Features"
 
->>>>>>> ec3848c1a3da4ca2287d5514653a3e4187f66438
-=======
-## Student Age 
+## Student Age
+
 ## Student Cgpa
->>>>>>> 78d3ae2cace276b22df99a474c6d530f06ae8f62
+
+
+## Student Age print
+
+## Student Gender
+
+## Student Status
+
+## Student Phone Number
+
+## Rename to student name field
+
+## Student Address
+
+## Add Team information
+
+## Add creditHours
+
+## Student Name Updated to 150
+
+## Phone Number updated to 25
+
+## Organize the changelog
+
+## Add Char email
+
+## Add int semester
+
+## increase address capacity 
+
+## rename student id field 
+
+## improve project description 
+
+## add project structure 
+
+## update project feature
+
+
+
