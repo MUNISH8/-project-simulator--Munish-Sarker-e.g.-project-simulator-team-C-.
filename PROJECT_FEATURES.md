@@ -1,23 +1,10 @@
-<<<<<<< HEAD
-"# Implemented Features" 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Student Age 
-=======
-=======
+
 "# Implemented Features"
->>>>>>> 2f4fade4a0748e72e6f85cbe05e82478db559f68
 
 ## Student Age
 
-<<<<<<< HEAD
->>>>>>> ec3848c1a3da4ca2287d5514653a3e4187f66438
-=======
-## Student Age 
 ## Student Cgpa
->>>>>>> 78d3ae2cace276b22df99a474c6d530f06ae8f62
-=======
-## Student Cgpa
+
 
 ## Student Age print
 
@@ -56,4 +43,4 @@
 ## update project feature
 
 
->>>>>>> 2f4fade4a0748e72e6f85cbe05e82478db559f68
+

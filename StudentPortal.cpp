@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
+
 #include <iostream>
 using namespace std;
-
->>>>>>> 2f4fade4a0748e72e6f85cbe05e82478db559f68
 
 struct Student
 {
@@ -21,10 +18,6 @@ struct Student
 
 };
 
-<<<<<<< HEAD
-
-
-=======
 void displayStudents(Student students[], int n)
 {
     for (int i = 0; i < n; i++)
@@ -46,4 +39,4 @@ int main()
 
     return 0;
 }
->>>>>>> 2f4fade4a0748e72e6f85cbe05e82478db559f68
+
